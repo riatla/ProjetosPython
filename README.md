@@ -15,4 +15,4 @@ lista
 - [x] jogar
 - [ ] estudar
 
-[acesse meu site](youtube.com)
+[acesse meu site](http://youtube.com)
